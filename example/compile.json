@@ -1,0 +1,10 @@
+{
+  "_id": "5ef23e6faaa66b4433c54ee6",
+  "dataset": "medline-articles-2020",
+  "status": "STOPPED",
+  "pubsets": [
+    "epmarcwriter",
+    "pubsets-collector"
+  ],
+  "completion-message": "Stopped due to the parent job with ID 5ef23e6c55043074790bf142 has a status STOPPED"
+}
