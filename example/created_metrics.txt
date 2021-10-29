@@ -1,0 +1,23 @@
+json_exporter_active_active{dataset="test-dataset-03",id="a90a16998db0c072e2d53243xx",status="ACTIVE"} 1
+
+json_exporter_all_pipelines{environment="devqa"} 4
+
+json_exporter_not_shipped_active{dataset="test-dataset-01",id="ae58e1f3e7161fb2a2a90a1zz",status="Stopped due error while Shipping"} 1
+
+json_exporter_not_shipped_failed{dataset="test-dataset-01",id="ae58e1f3e7161fb2a2a90a1zz",status="Stopped due error while Shipping"} 1
+
+json_exporter_not_shipped_pubsets_active{dataset="test-dataset-01",id="ae58e1f3e7161fb2a2a90a1zz",pubsets="{\"pubset-0\":1,\"sageao-1\":1}"} 1
+
+json_exporter_not_shipped_pubsets_count{dataset="test-dataset-01",id="ae58e1f3e7161fb2a2a90a1zz",pubsets="{\"pubset-0\":1,\"sageao-1\":1}"} 2
+
+json_exporter_stopped_active{dataset="medline-articles-2020",id="5ef23e6faaa66b4433c54eyy",status="Stopped due to the parent job with ID 5ef23e6faaa66b4433c54eyy has a status STOPPED"} 1
+json_exporter_stopped_active{dataset="test-dataset-04",id="a90a16998db0c072e2d53243ww",status="Stopped due to the parent job with ID a90a16998db0c072e2d53243ww has a status STOPPED"} 1
+
+json_exporter_stopped_failed{dataset="medline-articles-2020",id="5ef23e6faaa66b4433c54eyy",status="Stopped due to the parent job with ID 5ef23e6faaa66b4433c54eyy has a status STOPPED"} 1
+json_exporter_stopped_failed{dataset="test-dataset-04",id="a90a16998db0c072e2d53243ww",status="Stopped due to the parent job with ID a90a16998db0c072e2d53243ww has a status STOPPED"} 1
+
+json_exporter_stopped_pubsets_active{dataset="medline-articles-2020",id="5ef23e6faaa66b4433c54eyy",pubsets="{\"epmarcwriter\":1,\"pubsets-collector\":1}"} 1
+json_exporter_stopped_pubsets_active{dataset="test-dataset-04",id="a90a16998db0c072e2d53243ww",pubsets="{\"pubset-0-1\":1,\"pubset-0-2\":1,\"pubset-0-3\":1}"} 1
+
+json_exporter_stopped_pubsets_count{dataset="medline-articles-2020",id="5ef23e6faaa66b4433c54eyy",pubsets="{\"epmarcwriter\":1,\"pubsets-collector\":1}"} 2
+json_exporter_stopped_pubsets_count{dataset="test-dataset-04",id="a90a16998db0c072e2d53243ww",pubsets="{\"pubset-0-1\":1,\"pubset-0-2\":1,\"pubset-0-3\":1}"} 
