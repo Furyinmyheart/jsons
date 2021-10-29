@@ -11,7 +11,7 @@
                     "pubset_name": "pubsets-collector"
                 }
             ],
-            "some_boolean": true,
+            "failed_status": true,
             "status": "STOPPED",
             "completion_message": "Stopped due to the parent job with ID 5ef23e6faaa66b4433c54eyy has a status STOPPED"
         },
@@ -24,7 +24,7 @@
                     "pubset_name": "sageaop"
                 }
             ],
-            "some_boolean": true,
+            "failed_status": true,
             "status": "NOT-SHIPPED",
             "completion_message": "Stopped due error while Shipping"
         },
@@ -39,7 +39,7 @@
                     "pubset_name": "pubset-3"
                 }
             ],
-            "some_boolean": false,
+            "failed_status": false,
             "status": "ACTIVE",
             "completion_message": ""
         }
