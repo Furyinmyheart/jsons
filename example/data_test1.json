@@ -18,7 +18,7 @@
         {
             "_id": "ae58e1f3e7161fb2a2a90a1zz",
             "dataset": "test-dataset-01",
-            "pubsets_count": 1,
+            "pubsets_count": 2,
             "pubsets":
                 {
                     "pubset-0": 1,
@@ -50,9 +50,9 @@
             "pubsets_count": 3,
             "pubsets":
                 {
-                    "pubset-1-0": "pubset-1",
-                    "pubset-1-1": "pubset-2",
-                    "pubset-1-2": "pubset-3"
+                    "pubset-1-0": 1,
+                    "pubset-1-1": 1,
+                    "pubset-1-2": 1
                 }
             ,
             "failed": false,
