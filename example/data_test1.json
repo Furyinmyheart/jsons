@@ -7,11 +7,11 @@
             "pubsets_count": 2,
             "pubsets":
                 {
-                    "pubset_name_0": "epmarcwriter",
-                    "pubset_name_1": "pubsets-collector"
+                    "epmarcwriter": 1,
+                    "pubsets-collector": 1
                 }
             ,
-            "failed_status": true,
+            "failed": true,
             "status": "STOPPED",
             "completion_message": "Stopped due to the parent job with ID 5ef23e6faaa66b4433c54eyy has a status STOPPED"
         },
@@ -21,13 +21,28 @@
             "pubsets_count": 1,
             "pubsets":
                 {
-                    "pubset_name_0": "sageaop-0",
-                    "pubset_name_1": "sageaop-1"
+                    "pubset-0": 1,
+                    "sageao-1": 1
                 }
             ,
-            "failed_status": true,
+            "failed": true,
             "status": "NOT-SHIPPED",
             "completion_message": "Stopped due error while Shipping"
+        },
+        {
+            "_id": "a90a16998db0c072e2d53243ww",
+            "dataset": "test-dataset-04",
+            "pubsets_count": 3,
+            "pubsets":
+            {
+                "pubset-0-1": 1,
+                "pubset-0-2": 1,
+                "pubset-0-3": 1
+            }
+        ,
+            "failed": true,
+            "status": "STOPPED",
+            "completion_message": ""
         },
         {
             "_id": "a90a16998db0c072e2d53243xx",
@@ -35,15 +50,15 @@
             "pubsets_count": 3,
             "pubsets":
                 {
-                    "pubset_name_0": "pubset-1",
-                    "pubset_name_1": "pubset-2",
-                    "pubset_name_2": "pubset-3"
+                    "pubset-1-0": "pubset-1",
+                    "pubset-1-1": "pubset-2",
+                    "pubset-1-2": "pubset-3"
                 }
             ,
-            "failed_status": false,
+            "failed": false,
             "status": "ACTIVE",
             "completion_message": ""
         }
     ],
-    "location": "devqa"
+    "environment": "devqa"
 }
