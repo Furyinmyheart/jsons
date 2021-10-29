@@ -21,7 +21,8 @@
             "pubsets_count": 1,
             "pubsets": 
                 {
-                    "pubset_name": "sageaop"
+                    "pubset_name": "sage_test1"
+                    "pubset_name_2": "sage_test2"
                 }
             ,
             "failed_status": true,
