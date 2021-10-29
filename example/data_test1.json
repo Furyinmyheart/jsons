@@ -6,10 +6,10 @@
             "dataset": "medline-articles-2020",
             "pubsets_count": 2,
             "pubsets":
-                [
-                    "epmarcwriter",
-                    "pubsets-collector"
-                ]
+                {
+                    "pubset_name": "epmarcwriter",
+                    "pubset_name": "pubsets-collector"
+                }
             ,
             "failed_status": true,
             "status": "STOPPED",
@@ -19,10 +19,10 @@
             "_id": "ae58e1f3e7161fb2a2a90a1zz",
             "dataset": "test-dataset-01",
             "pubsets_count": 1,
-            "pubsets": 
+            "pubsets":
                 {
-                    "pubset_name": "sage_test1"
-                    "pubset_name_2": "sage_test2"
+                    "pubset_name": "sageaop",
+                    "pubset_name_1": "sageaop-1"
                 }
             ,
             "failed_status": true,
@@ -33,7 +33,7 @@
             "_id": "a90a16998db0c072e2d53243xx",
             "dataset": "test-dataset-03",
             "pubsets_count": 3,
-            "pubsets": 
+            "pubsets":
                 {
                     "pubset_name": "pubset-1",
                     "pubset_name": "pubset-2",
