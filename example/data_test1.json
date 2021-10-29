@@ -5,11 +5,11 @@
             "_id": "5ef23e6faaa66b4433c54eyy",
             "dataset": "medline-articles-2020",
             "pubsets_count": 2,
-            "pubsets": 
-                {
-                    "pubset_name": "epmarcwriter",
-                    "pubset_name": "pubsets-collector"
-                }
+            "pubsets":
+                [
+                    "epmarcwriter",
+                    "pubsets-collector"
+                ]
             ,
             "failed_status": true,
             "status": "STOPPED",
