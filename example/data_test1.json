@@ -5,12 +5,12 @@
             "_id": "5ef23e6faaa66b4433c54eyy",
             "dataset": "medline-articles-2020",
             "pubsets_count": 2,
-            "pubsets": [
+            "pubsets": 
                 {
                     "pubset_name": "epmarcwriter",
                     "pubset_name": "pubsets-collector"
                 }
-            ],
+            ,
             "failed_status": true,
             "status": "STOPPED",
             "completion_message": "Stopped due to the parent job with ID 5ef23e6faaa66b4433c54eyy has a status STOPPED"
@@ -19,11 +19,11 @@
             "_id": "ae58e1f3e7161fb2a2a90a1zz",
             "dataset": "test-dataset-01",
             "pubsets_count": 1,
-            "pubsets": [
+            "pubsets": 
                 {
                     "pubset_name": "sageaop"
                 }
-            ],
+            ,
             "failed_status": true,
             "status": "NOT-SHIPPED",
             "completion_message": "Stopped due error while Shipping"
@@ -32,13 +32,13 @@
             "_id": "a90a16998db0c072e2d53243xx",
             "dataset": "test-dataset-03",
             "pubsets_count": 3,
-            "pubsets": [
+            "pubsets": 
                 {
                     "pubset_name": "pubset-1",
                     "pubset_name": "pubset-2",
                     "pubset_name": "pubset-3"
                 }
-            ],
+            ,
             "failed_status": false,
             "status": "ACTIVE",
             "completion_message": ""
