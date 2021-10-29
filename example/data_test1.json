@@ -42,7 +42,7 @@
         ,
             "failed": true,
             "status": "STOPPED",
-            "completion_message": ""
+            "completion_message": "Stopped due to the parent job with ID a90a16998db0c072e2d53243ww has a status STOPPED"
         },
         {
             "_id": "a90a16998db0c072e2d53243xx",
