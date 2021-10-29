@@ -7,8 +7,8 @@
             "pubsets_count": 2,
             "pubsets":
                 {
-                    "pubset_name": "epmarcwriter",
-                    "pubset_name": "pubsets-collector"
+                    "pubset_name_0": "epmarcwriter",
+                    "pubset_name_1": "pubsets-collector"
                 }
             ,
             "failed_status": true,
@@ -21,7 +21,7 @@
             "pubsets_count": 1,
             "pubsets":
                 {
-                    "pubset_name": "sageaop",
+                    "pubset_name_0": "sageaop-0",
                     "pubset_name_1": "sageaop-1"
                 }
             ,
@@ -35,9 +35,9 @@
             "pubsets_count": 3,
             "pubsets":
                 {
-                    "pubset_name": "pubset-1",
-                    "pubset_name": "pubset-2",
-                    "pubset_name": "pubset-3"
+                    "pubset_name_0": "pubset-1",
+                    "pubset_name_1": "pubset-2",
+                    "pubset_name_2": "pubset-3"
                 }
             ,
             "failed_status": false,
