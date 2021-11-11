@@ -1,0 +1,1865 @@
+{
+  "counter": 185,
+  "environment": "devqa",
+  "values": [
+    {
+      "dataset": "medline-subject",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "61857f394d81f81adb0b1413",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed",
+      "product-family": "aop",
+      "team": "CONTENT.Polaris",
+      "groupId": "asn"
+    },
+    {
+      "dataset": "global-enrichment",
+      "status": "STOPPED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "618549499de6a32a50adb62c",
+      "pubsets_count": 0,
+      "completion_message": "Job was stopped by timeout due stages [id stage 618549499de6a32a50adb632 name language-classifier-ml] ",
+      "product-family": "aop",
+      "team": "CONTENT.Chagall",
+      "groupId": "asn"
+    },
+    {
+      "dataset": "fsta",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6185347e9de6a32a50adb629",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed",
+      "product-family": "aop",
+      "team": "CONTENT.Kupala",
+      "groupId": "asn"
+    },
+    {
+      "dataset": "fsta",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6185347e9de6a32a50adb627",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed",
+      "product-family": "lsd",
+      "team": "CONTENT.Polaris",
+      "groupId": "asn"
+    },
+    {
+      "dataset": "fsta",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "618533e460b6ae120a470bc5",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed",
+      "product-family": "edssjs",
+      "team": "CONTENT.Polaris",
+      "groupId": "asntest"
+    },
+    {
+      "dataset": "fsta",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "61852c609de6a32a50adb623",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed",
+      "product-family": "edssjs",
+      "team": {
+        "CONTENT.Kupala": 1,
+        "CONTENT.Chagall": 1
+      },
+      "groupId": "asntest"
+    },
+    {
+      "dataset": "fsta",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "61852c609de6a32a50adb621",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed",
+      "product-family": "edssjs",
+      "team": {
+        "CONTENT.Kupala": 1,
+        "CONTENT.Chagall": 1,
+        "CONTENT.Polaris": 1
+      },
+      "groupId": "asntest"
+    },
+    {
+      "dataset": "fsta",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "61852c6060b6ae120a470bc2",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed",
+      "product-family": "aop",
+      "team": {
+        "CONTENT.Kupala": 1,
+        "CONTENT.Chagall": 1,
+        "CONTENT.Polaris": 1
+      },
+      "groupId": "asn"
+    },
+    {
+      "dataset": "cabi",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "61851d2160b6ae120a470bbd",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "cabi",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "61851cc39de6a32a50adb61e",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "cabi",
+      "status": "COMPLETED",
+      "pubsets": {
+        "cabi_lhhrecords": 1
+      },
+      "failed": false,
+      "_id": "6184e6739de6a32a50adb61b",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "cabi",
+      "status": "COMPLETED",
+      "pubsets": {
+        "cabi_lbhrecords": 1
+      },
+      "failed": false,
+      "_id": "6184e6739de6a32a50adb618",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "cabi",
+      "status": "COMPLETED",
+      "pubsets": {
+        "cabi_lahrecords": 1
+      },
+      "failed": false,
+      "_id": "6184e6739de6a32a50adb615",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "cabi",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184e6739de6a32a50adb612",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "cabi",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184e6739de6a32a50adb610",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "cabi",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184e6739de6a32a50adb60b",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "fsta-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184ba939de6a32a50adb605",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "fsta-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184ba939de6a32a50adb603",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "fsta-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184ba5060b6ae120a470bb8",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "fsta-e2e-test",
+      "status": "STOPPED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184ba2060b6ae120a470bb4",
+      "pubsets_count": 0,
+      "completion_message": "Job was stopped"
+    },
+    {
+      "dataset": "fsta-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b9f260b6ae120a470bb1",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "fsta-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b9f260b6ae120a470baf",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "fsta-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {
+        "fstarecords-test": 1
+      },
+      "failed": false,
+      "_id": "6184b96760b6ae120a470bac",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "fsta-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b96760b6ae120a470ba9",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "fsta-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b96760b6ae120a470ba7",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "fsta-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b9679de6a32a50adb5fc",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "fsta-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b96360b6ae120a470ba3",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "wileyaop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "wileyaoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b8bd60b6ae120a470ba0",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "wileyaop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "wileyaoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b8bd60b6ae120a470b9d",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "wileyaop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "wileyaoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b8bd60b6ae120a470b98",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "fsta-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b8bd60b6ae120a470b96",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "taylorfrancisaop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "taylorfrancisaoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b8b960b6ae120a470b92",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "taylorfrancisaop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "taylorfrancisaoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b8b960b6ae120a470b8f",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "taylorfrancisaop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "taylorfrancisaoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b8b99de6a32a50adb5f6",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals",
+      "status": "COMPLETED",
+      "pubsets": {
+        "springerjouraop": 1
+      },
+      "failed": false,
+      "_id": "6184b8b460b6ae120a470b8b",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals",
+      "status": "COMPLETED",
+      "pubsets": {
+        "edssjs": 1
+      },
+      "failed": false,
+      "_id": "6184b8b460b6ae120a470b88",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals",
+      "status": "COMPLETED",
+      "pubsets": {
+        "edssjs": 1,
+        "springerjouraop": 1
+      },
+      "failed": false,
+      "_id": "6184b8b460b6ae120a470b85",
+      "pubsets_count": 2,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals",
+      "status": "COMPLETED",
+      "pubsets": {
+        "springerjouraop": 1
+      },
+      "failed": false,
+      "_id": "6184b8b460b6ae120a470b81",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals",
+      "status": "COMPLETED",
+      "pubsets": {
+        "edssjs": 1
+      },
+      "failed": false,
+      "_id": "6184b8b460b6ae120a470b7e",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals",
+      "status": "COMPLETED",
+      "pubsets": {
+        "edssjs": 1,
+        "springerjouraop": 1
+      },
+      "failed": false,
+      "_id": "6184b8b460b6ae120a470b7b",
+      "pubsets_count": 2,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals",
+      "status": "COMPLETED",
+      "pubsets": {
+        "edssjs": 1,
+        "springerjouraop": 1
+      },
+      "failed": false,
+      "_id": "6184b8b460b6ae120a470b75",
+      "pubsets_count": 2,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "sageaop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "sageaoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b84f9de6a32a50adb5f3",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "sageaop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "sageaoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b84f9de6a32a50adb5f0",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "sageaop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "sageaoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b84f9de6a32a50adb5eb",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {
+        "springerjouraop-test": 1
+      },
+      "failed": false,
+      "_id": "6184b83b60b6ae120a470b71",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {
+        "edssjs-test": 1
+      },
+      "failed": false,
+      "_id": "6184b83b60b6ae120a470b6e",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b83b60b6ae120a470b6b",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {
+        "springerjouraop-test": 1
+      },
+      "failed": false,
+      "_id": "6184b83b60b6ae120a470b68",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {
+        "edssjs-test": 1
+      },
+      "failed": false,
+      "_id": "6184b83b60b6ae120a470b65",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b83b60b6ae120a470b62",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b83b9de6a32a50adb5e4",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "medline-articles-books",
+      "status": "COMPLETED",
+      "pubsets": {
+        "medlinearticlesbooksrecords": 1
+      },
+      "failed": false,
+      "_id": "6184b8319de6a32a50adb5e0",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "medline-articles-books",
+      "status": "COMPLETED",
+      "pubsets": {
+        "medlinearticlesbooksrecords": 1
+      },
+      "failed": false,
+      "_id": "6184b8319de6a32a50adb5dd",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "medline-articles-books",
+      "status": "COMPLETED",
+      "pubsets": {
+        "medlinearticlesbooksrecords": 1
+      },
+      "failed": false,
+      "_id": "6184b83160b6ae120a470b5d",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "degruyteraop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "degruyteraoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b82d9de6a32a50adb5da",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "degruyteraop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "degruyteraoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b82d9de6a32a50adb5d7",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "degruyteraop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "degruyteraoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b82d60b6ae120a470b58",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "kargeraop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "kargeraoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b82c9de6a32a50adb5d4",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "kargeraop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "kargeraoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b82c9de6a32a50adb5d1",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "kargeraop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "kargeraoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b82c9de6a32a50adb5cc",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "medline-articles-books-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {
+        "medlinearticlesbooksrecords-test": 1
+      },
+      "failed": false,
+      "_id": "6184b82260b6ae120a470b55",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "medline-articles-books-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b82260b6ae120a470b52",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "medline-articles-books-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b8229de6a32a50adb5c4",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "medline-articles-books-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {
+        "medlinearticlesbooksrecords-test": 1
+      },
+      "failed": false,
+      "_id": "6184b80960b6ae120a470b4f",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "medline-articles-books-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b80960b6ae120a470b4c",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "medline-articles-books-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b8099de6a32a50adb5be",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "iosaop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "iosaoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b7fe9de6a32a50adb5ba",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "iosaop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "iosaoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b7fe9de6a32a50adb5b7",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "iosaop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "iosaoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b7fe9de6a32a50adb5b2",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {
+        "springerjouraop-test": 1
+      },
+      "failed": false,
+      "_id": "6184b7fc60b6ae120a470b49",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {
+        "edssjs-test": 1
+      },
+      "failed": false,
+      "_id": "6184b7fc60b6ae120a470b46",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b7fc60b6ae120a470b43",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {
+        "springerjouraop-test": 1
+      },
+      "failed": false,
+      "_id": "6184b7fc60b6ae120a470b40",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {
+        "edssjs-test": 1
+      },
+      "failed": false,
+      "_id": "6184b7fc60b6ae120a470b3d",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b7fc60b6ae120a470b3a",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b7fc9de6a32a50adb5ac",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "fsta-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {
+        "fstarecords-test": 1
+      },
+      "failed": false,
+      "_id": "6184b70f9de6a32a50adb5a7",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "fsta-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b70f60b6ae120a470b33",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "cabi",
+      "status": "COMPLETED",
+      "pubsets": {
+        "cabi_lhhrecords": 1
+      },
+      "failed": false,
+      "_id": "6184b6f89de6a32a50adb5a3",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "cabarchives",
+      "status": "COMPLETED",
+      "pubsets": {
+        "cabarchives_gharecords": 1
+      },
+      "failed": false,
+      "_id": "6184b6f860b6ae120a470b30",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "cabi",
+      "status": "COMPLETED",
+      "pubsets": {
+        "cabi_lbhrecords": 1
+      },
+      "failed": false,
+      "_id": "6184b6f89de6a32a50adb5a0",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "cabarchives",
+      "status": "COMPLETED",
+      "pubsets": {
+        "cabarchives_ldhrecords": 1
+      },
+      "failed": false,
+      "_id": "6184b6f860b6ae120a470b2d",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "cabi",
+      "status": "COMPLETED",
+      "pubsets": {
+        "cabi_lahrecords": 1
+      },
+      "failed": false,
+      "_id": "6184b6f89de6a32a50adb59d",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "cabarchives",
+      "status": "COMPLETED",
+      "pubsets": {
+        "cabarchives_ldhrecords": 1,
+        "cabarchives_gharecords": 1
+      },
+      "failed": false,
+      "_id": "6184b6f860b6ae120a470b2a",
+      "pubsets_count": 2,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "worldscientificaop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "worldscientificaoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b6f860b6ae120a470b27",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "cabi",
+      "status": "COMPLETED",
+      "pubsets": {
+        "cabi_lhhrecords": 1,
+        "cabi_lahrecords": 1,
+        "cabi_lbhrecords": 1
+      },
+      "failed": false,
+      "_id": "6184b6f89de6a32a50adb59a",
+      "pubsets_count": 3,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "worldscientificaop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "worldscientificaoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b6f860b6ae120a470b24",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "cabi",
+      "status": "COMPLETED",
+      "pubsets": {
+        "cabi_lhhrecords": 1,
+        "cabi_lahrecords": 1,
+        "cabi_lbhrecords": 1
+      },
+      "failed": false,
+      "_id": "6184b6f89de6a32a50adb595",
+      "pubsets_count": 3,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "cabarchives",
+      "status": "COMPLETED",
+      "pubsets": {
+        "cabarchives_ldhrecords": 1,
+        "cabarchives_gharecords": 1
+      },
+      "failed": false,
+      "_id": "6184b6f860b6ae120a470b1f",
+      "pubsets_count": 2,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "worldscientificaop",
+      "status": "COMPLETED",
+      "pubsets": {
+        "worldscientificaoprecords": 1
+      },
+      "failed": false,
+      "_id": "6184b6f89de6a32a50adb590",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "fsta-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {
+        "fstarecords-test": 1
+      },
+      "failed": false,
+      "_id": "6184b6f69de6a32a50adb58d",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "fsta-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b6f660b6ae120a470b18",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "fsta",
+      "status": "STOPPED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b6ef9de6a32a50adb585",
+      "pubsets_count": 0,
+      "completion_message": "Job was stopped"
+    },
+    {
+      "dataset": "fsta",
+      "status": "COMPLETED",
+      "pubsets": {
+        "fstarecords": 1
+      },
+      "failed": false,
+      "_id": "6184b68960b6ae120a470b13",
+      "pubsets_count": 1,
+      "completion_message": "Manual complete"
+    },
+    {
+      "dataset": "fsta",
+      "status": "COMPLETED",
+      "pubsets": {
+        "fstarecords": 1
+      },
+      "failed": false,
+      "_id": "6184b68960b6ae120a470b10",
+      "pubsets_count": 1,
+      "completion_message": "Manual complete"
+    },
+    {
+      "dataset": "fsta",
+      "status": "COMPLETED",
+      "pubsets": {
+        "fstarecords": 1
+      },
+      "failed": false,
+      "_id": "6184b68960b6ae120a470b0e",
+      "pubsets_count": 1,
+      "completion_message": "Manual complete"
+    },
+    {
+      "dataset": "fsta",
+      "status": "COMPLETED",
+      "pubsets": {
+        "fstarecords": 1
+      },
+      "failed": false,
+      "_id": "6184b68960b6ae120a470b09",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "fsta",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b62860b6ae120a470b07",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "fsta",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b62860b6ae120a470b05",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "fsta",
+      "status": "COMPLETED",
+      "pubsets": {
+        "fstarecords": 1
+      },
+      "failed": false,
+      "_id": "6184b59c60b6ae120a470b01",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "fsta",
+      "status": "COMPLETED",
+      "pubsets": {
+        "fstarecords": 1
+      },
+      "failed": false,
+      "_id": "6184b4499de6a32a50adb580",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {
+        "springerjouraop-test": 1
+      },
+      "failed": false,
+      "_id": "6184b44960b6ae120a470afe",
+      "pubsets_count": 1,
+      "completion_message": "Manual complete"
+    },
+    {
+      "dataset": "fsta",
+      "status": "COMPLETED",
+      "pubsets": {
+        "fstarecords": 1
+      },
+      "failed": false,
+      "_id": "6184b4499de6a32a50adb57d",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {
+        "edssjs-test": 1
+      },
+      "failed": false,
+      "_id": "6184b44960b6ae120a470afb",
+      "pubsets_count": 1,
+      "completion_message": "Manual complete"
+    },
+    {
+      "dataset": "fsta",
+      "status": "COMPLETED",
+      "pubsets": {
+        "fstarecords": 1
+      },
+      "failed": false,
+      "_id": "6184b4499de6a32a50adb57b",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b44960b6ae120a470af8",
+      "pubsets_count": 0,
+      "completion_message": "Manual complete"
+    },
+    {
+      "dataset": "fsta",
+      "status": "COMPLETED",
+      "pubsets": {
+        "fstarecords": 1
+      },
+      "failed": false,
+      "_id": "6184b4499de6a32a50adb576",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {
+        "springerjouraop-test": 1
+      },
+      "failed": false,
+      "_id": "6184b44960b6ae120a470af5",
+      "pubsets_count": 1,
+      "completion_message": "Manual complete"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {
+        "edssjs-test": 1
+      },
+      "failed": false,
+      "_id": "6184b44960b6ae120a470af2",
+      "pubsets_count": 1,
+      "completion_message": "Manual complete"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b44960b6ae120a470aef",
+      "pubsets_count": 0,
+      "completion_message": "Manual complete"
+    },
+    {
+      "dataset": "springer-naturejournals-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b4499de6a32a50adb570",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "medline-articles-books-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {
+        "medlinearticlesbooksrecords-test": 1
+      },
+      "failed": false,
+      "_id": "6184b44460b6ae120a470aec",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "medline-articles-books-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b4449de6a32a50adb569",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "medline-subject",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b4449de6a32a50adb566",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "global-enrichment",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b4449de6a32a50adb55c",
+      "pubsets_count": 0,
+      "completion_message": "Manual complete"
+    },
+    {
+      "dataset": "novelist-review-protoview-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b3459de6a32a50adb559",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-protoview-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b34560b6ae120a470ae9",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-protoview-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b2df9de6a32a50adb556",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-protoview-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b2df9de6a32a50adb553",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-protoview-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b2759de6a32a50adb54f",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-protoview-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b27560b6ae120a470ae5",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-protoview-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b1ae60b6ae120a470ae2",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-protoview-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b1ae9de6a32a50adb54b",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-kdh-books-e2e-test",
+      "status": "STOPPED",
+      "pubsets": {
+        "novelist_kdh-test": 1
+      },
+      "failed": false,
+      "_id": "6184b19560b6ae120a470adf",
+      "pubsets_count": 1,
+      "completion_message": "Stopped due to the parent job with ID 6184b19560b6ae120a470ad5 has a status STOPPED"
+    },
+    {
+      "dataset": "novelist-kdh-books-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b19560b6ae120a470ada",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-kdh-books-e2e-test",
+      "status": "STOPPED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b19560b6ae120a470ad5",
+      "pubsets_count": 0,
+      "completion_message": "Job was stopped"
+    },
+    {
+      "dataset": "novelist-kdh-books-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {
+        "novelist_kdh-test": 1
+      },
+      "failed": false,
+      "_id": "6184b00d9de6a32a50adb546",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-kdh-books-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b00d9de6a32a50adb541",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-kdh-books-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184b00d9de6a32a50adb53c",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-booklist-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184afff9de6a32a50adb536",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-booklist-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184afff9de6a32a50adb533",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-booklist-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184afff9de6a32a50adb52e",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-booklist-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184affe60b6ae120a470ad2",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-choice-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184af999de6a32a50adb529",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-choice-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184af9960b6ae120a470acf",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-choice-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184af979de6a32a50adb526",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-choice-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184af979de6a32a50adb523",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-pwk-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184af7a9de6a32a50adb520",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-pwk-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184af7a60b6ae120a470aca",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-slj-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184af799de6a32a50adb51d",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-slj-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184af799de6a32a50adb51a",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-slj-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184af0a60b6ae120a470ac5",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-slj-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184af0a9de6a32a50adb517",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-lj-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184af0a60b6ae120a470ac2",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-lj-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184af0a9de6a32a50adb514",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-pwk-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184aec69de6a32a50adb511",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-pwk-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184aec660b6ae120a470abd",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-lj-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184aec29de6a32a50adb50e",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-lj-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184aec260b6ae120a470aba",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-kdh-books-e2e-test",
+      "status": "STOPPED",
+      "pubsets": {
+        "novelist_kdh-test": 1
+      },
+      "failed": false,
+      "_id": "6184ae6160b6ae120a470ab5",
+      "pubsets_count": 1,
+      "completion_message": "Stopped due to the parent job with ID 6184ae6160b6ae120a470aab has a status STOPPED"
+    },
+    {
+      "dataset": "novelist-kdh-books-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184ae6160b6ae120a470ab0",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-kdh-books-e2e-test",
+      "status": "STOPPED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184ae6160b6ae120a470aab",
+      "pubsets_count": 0,
+      "completion_message": "Job was stopped by timeout due stages [id stage 6184ae6160b6ae120a470aac name normalize_mapping] "
+    },
+    {
+      "dataset": "novelist-review-slj",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184ae5e60b6ae120a470aa8",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-slj",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184ae5e60b6ae120a470aa5",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-pwk",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184ae5c60b6ae120a470aa1",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-pwk",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184ae5c60b6ae120a470a9e",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-kirkus-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184ae5a60b6ae120a470a9b",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-kirkus-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184ae5960b6ae120a470a98",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-kirkus-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184ae5960b6ae120a470a94",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-kirkus-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184ae599de6a32a50adb50b",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-protoview",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184ade39de6a32a50adb508",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-protoview",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184ade39de6a32a50adb505",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "global-enrichment",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184adc960b6ae120a470a86",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-lj",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184ad909de6a32a50adb501",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-lj",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184ad909de6a32a50adb4fe",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-kirkus",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184ad4a60b6ae120a470a83",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-kirkus",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184ad4a60b6ae120a470a80",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-protoview-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184acb560b6ae120a470a7d",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-protoview-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184acb49de6a32a50adb4f9",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-kdh-books",
+      "status": "COMPLETED",
+      "pubsets": {
+        "novelist_kdh": 1
+      },
+      "failed": false,
+      "_id": "6184acb460b6ae120a470a7a",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-kdh-books",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184acb460b6ae120a470a75",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-kdh-books-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {
+        "novelist_kdh-test": 1
+      },
+      "failed": false,
+      "_id": "6184acb460b6ae120a470a74",
+      "pubsets_count": 1,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-protoview-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184acb460b6ae120a470a71",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-booklist",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184acb460b6ae120a470a6c",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-kdh-demand",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184acb460b6ae120a470a67",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-choice",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184acb49de6a32a50adb4f6",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-protoview-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184acb460b6ae120a470a64",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-booklist",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184acb460b6ae120a470a55",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-kdh-books",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184acb460b6ae120a470a54",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-kdh-demand-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184acb460b6ae120a470a53",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-kdh-books-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184acb460b6ae120a470a52",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-kdh-demand",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184acb49de6a32a50adb4f1",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-review-choice",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184acb49de6a32a50adb4f0",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-kdh-demand-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184acb49de6a32a50adb4e9",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    },
+    {
+      "dataset": "novelist-kdh-books-e2e-test",
+      "status": "COMPLETED",
+      "pubsets": {},
+      "failed": false,
+      "_id": "6184acb49de6a32a50adb4e8",
+      "pubsets_count": 0,
+      "completion_message": "Job was successfully completed"
+    }
+  ]
+}
