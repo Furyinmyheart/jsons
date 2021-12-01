@@ -10,7 +10,7 @@
       "_id": "61a695e7f60a531eaf4d430c",
       "pubsets_count": 0,
       "completion_message": "Job was successfully completed",
-      "team": "aop",
+      "team": "test_team_2",
       "product-family": "test_p_f_name_2"
     },
     {
@@ -77,7 +77,9 @@
       "failed": true,
       "_id": "61a68931f06cd41fb4f24453",
       "pubsets_count": 0,
-      "completion_message": "Job was successfully completed"
+      "completion_message": "Job was successfully completed",
+      "team": "test_team",
+      "product-family": "test_p_f_name_2"
     },
     {
       "dataset": "fsta",
@@ -214,7 +216,9 @@
       "failed": false,
       "_id": "61a66617f06cd41fb4f24426",
       "pubsets_count": 0,
-      "completion_message": "Job was aborted"
+      "completion_message": "Job was aborted",
+      "team": "test_team_2",
+      "product-family": "test_p_f_name_1"
     },
     {
       "dataset": "medline-articles-books-e2e-test",
@@ -2178,7 +2182,9 @@
       "failed": true,
       "_id": "61a5b052f06cd41fb4f242e3",
       "pubsets_count": 0,
-      "completion_message": "Job was successfully completed"
+      "completion_message": "Job was successfully completed",
+      "team": "test_team",
+      "product-family": "test_p_f_name_1"
     },
     {
       "dataset": "novelist-review-choice",
