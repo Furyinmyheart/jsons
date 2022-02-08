@@ -1,0 +1,3084 @@
+{
+"counter": 256,
+"environment": "devqa",
+"values": [
+{
+"dataset": "medline-articles-books",
+"team": "Green Bin",
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62013f97a5fe36052371e85a",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "medline-articles-books",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62013f975f4a5c4267ad175b",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-articles-books",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"medlinearticlesbooksrecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "62013f975f4a5c4267ad175e",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "global-enrichment",
+"team": "sp2s",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "620144cca5fe36052371e85f",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-articles-books",
+"team": "Green Bin",
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "620151ca139d5e0d8618e092",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "medline-articles-books",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "620151ca3a545a383cd99048",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-articles-books",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"medlinearticlesbooksrecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "620151cb3a545a383cd9904b",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-articles-books",
+"team": "Green Bin",
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": "Medline",
+"_id": "620165bc139d5e0d8618e097",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "medline-articles-books",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": "Medline",
+"_id": "620165bc139d5e0d8618e09c",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-articles-books",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"medlinearticlesbooksrecords": 1
+},
+"failed": false,
+"product_family": "Medline",
+"_id": "620165bc139d5e0d8618e09f",
+"pubsets_count": 1,
+"completion_message": "Manual complete"
+},
+{
+"dataset": "global-enrichment",
+"team": "sp2s",
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62016a5be479c160dff5e3a1",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "medline-subject",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62016c38139d5e0d8618e0a2",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62017a65139d5e0d8618e0a6",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62017a66139d5e0d8618e0ac",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"edssjs": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "62017a66139d5e0d8618e0af",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"springerjouraop": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "62017a66139d5e0d8618e0b2",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62017a66139d5e0d8618e0b5",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"edssjs": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "62017a66139d5e0d8618e0b8",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"springerjouraop": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "62017a66139d5e0d8618e0bb",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62017d7b139d5e0d8618e0be",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62017d7ce479c160dff5e3ab",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"edssjs": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "62017d7ce479c160dff5e3ae",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"springerjouraop": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "62017d7ce479c160dff5e3b1",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62017d7ce479c160dff5e3b4",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"edssjs": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "62017d7ce479c160dff5e3b7",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"springerjouraop": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "62017d7ce479c160dff5e3ba",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62018560e479c160dff5e3be",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62018560139d5e0d8618e0c6",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"edssjs": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "62018560139d5e0d8618e0c9",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"springerjouraop": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "62018560139d5e0d8618e0cc",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62018560139d5e0d8618e0cf",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"edssjs": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "62018560139d5e0d8618e0d2",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"springerjouraop": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "62018560139d5e0d8618e0d5",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-protoview-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d61ae479c160dff5e3ce",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kdh-demand-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d61ae479c160dff5e3cd",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kfh-demand-e2e-test",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d61ae479c160dff5e3cf",
+"pubsets_count": 0,
+"completion_message": "Job was stopped"
+},
+{
+"dataset": "novelist-kdh-books",
+"team": null,
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d61ae479c160dff5e3d6",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "novelist-review-protoview-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d61ae479c160dff5e3db",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kdh-books-e2e-test",
+"team": null,
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d61ae479c160dff5e3de",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "novelist-kfh-media-e2e-test",
+"team": null,
+"status": "SHIPMENT_FAILURE",
+"pubsets": {},
+"failed": true,
+"product_family": null,
+"_id": "6201d61ae479c160dff5e3df",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job shipment failed"
+},
+{
+"dataset": "novelist-kdh-demand",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d61a9363a730e925dd7e",
+"pubsets_count": 0,
+"completion_message": "Job was stopped by timeout due stages [id stage 6201d61a9363a730e925dd7f name normalize_mapping] "
+},
+{
+"dataset": "novelist-review-protoview-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d61de479c160dff5e3e8",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-protoview-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d61d9363a730e925dd81",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kfh-media-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d61d9363a730e925dd82",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kdh-demand",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d61de479c160dff5e3ec",
+"pubsets_count": 0,
+"completion_message": "Stopped due to the parent job with ID 6201d61a9363a730e925dd7e has a status STOPPED"
+},
+{
+"dataset": "novelist-kdh-demand-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d61de479c160dff5e3eb",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kfh-demand-e2e-test",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d61d9363a730e925dd88",
+"pubsets_count": 0,
+"completion_message": "Stopped due to the parent job with ID 6201d61ae479c160dff5e3cf has a status STOPPED"
+},
+{
+"dataset": "novelist-kdh-books",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d61d9363a730e925dd89",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kdh-books-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d61d9363a730e925dd90",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kfh-media-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {
+"novelist_kfh-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201d61ee479c160dff5e3f5",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kdh-books-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {
+"novelist_kdh-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201d61e9363a730e925dd95",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kdh-books",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {
+"novelist_kdh": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201d61ee479c160dff5e3f8",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kdh-books",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {
+"novelist_skipped": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201d61ee479c160dff5e3fb",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-kirkus-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d624e479c160dff5e401",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-kirkus-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d624e479c160dff5e402",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-kirkus-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d625e479c160dff5e407",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-kirkus-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d6259363a730e925dd98",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kdh-books-e2e-test",
+"team": null,
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d625e479c160dff5e40a",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "novelist-kdh-books-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d625e479c160dff5e40f",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kdh-books-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {
+"novelist_kdh-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201d625e479c160dff5e414",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-lj-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d62ee479c160dff5e41a",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-lj-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d62ee479c160dff5e41d",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-pwk-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d62ee479c160dff5e420",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-pwk-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d62ee479c160dff5e423",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kdh-books-e2e-test",
+"team": null,
+"status": "SHIPMENT_FAILURE",
+"pubsets": {},
+"failed": true,
+"product_family": null,
+"_id": "6201d62fe479c160dff5e426",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job shipment failed"
+},
+{
+"dataset": "novelist-kdh-books-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d62fe479c160dff5e42b",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kdh-books-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {
+"novelist_kdh-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201d62fe479c160dff5e430",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-slj-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d635e479c160dff5e435",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-slj-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d635e479c160dff5e438",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-lj-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d635e479c160dff5e43b",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-lj-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d635e479c160dff5e43e",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-slj-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d63de479c160dff5e443",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-pwk-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d63de479c160dff5e446",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-slj-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d63de479c160dff5e449",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-pwk-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d63de479c160dff5e44c",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-choice-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d644e479c160dff5e451",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-choice-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d644e479c160dff5e454",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-choice-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d644e479c160dff5e457",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-choice-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d644e479c160dff5e45a",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-review-booklist-e2e-test",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d64ce479c160dff5e45f",
+"pubsets_count": 0,
+"completion_message": "Job was stopped by timeout due stages [id stage 6201d64ce479c160dff5e460 name normalize_mapping] "
+},
+{
+"dataset": "novelist-review-booklist-e2e-test",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d64ce479c160dff5e462",
+"pubsets_count": 0,
+"completion_message": "Stopped due to the parent job with ID 6201d64ce479c160dff5e45f has a status STOPPED"
+},
+{
+"dataset": "novelist-review-booklist-e2e-test",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d64ce479c160dff5e467",
+"pubsets_count": 0,
+"completion_message": "Job was stopped by timeout due stages [id stage 6201d64ce479c160dff5e468 name normalize_mapping] "
+},
+{
+"dataset": "novelist-review-booklist-e2e-test",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d64ce479c160dff5e46a",
+"pubsets_count": 0,
+"completion_message": "Stopped due to the parent job with ID 6201d64ce479c160dff5e467 has a status STOPPED"
+},
+{
+"dataset": "novelist-review-protoview-e2e-test",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d653e479c160dff5e470",
+"pubsets_count": 0,
+"completion_message": "Job was stopped by timeout due stages [id stage 6201d653e479c160dff5e471 name normalize_mapping] "
+},
+{
+"dataset": "novelist-review-protoview-e2e-test",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d653e479c160dff5e473",
+"pubsets_count": 0,
+"completion_message": "Stopped due to the parent job with ID 6201d653e479c160dff5e470 has a status STOPPED"
+},
+{
+"dataset": "novelist-review-booklist",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d80de479c160dff5e477",
+"pubsets_count": 0,
+"completion_message": "Job was stopped by timeout due stages [id stage 6201d80de479c160dff5e478 name normalize_mapping] "
+},
+{
+"dataset": "novelist-review-booklist",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d80de479c160dff5e47a",
+"pubsets_count": 0,
+"completion_message": "Stopped due to the parent job with ID 6201d80de479c160dff5e477 has a status STOPPED"
+},
+{
+"dataset": "novelist-review-choice",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d8749363a730e925dd9c",
+"pubsets_count": 0,
+"completion_message": "Job was stopped by timeout due stages [id stage 6201d8749363a730e925dd9d name normalize_mapping] "
+},
+{
+"dataset": "novelist-review-choice",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d874e479c160dff5e47f",
+"pubsets_count": 0,
+"completion_message": "Stopped due to the parent job with ID 6201d8749363a730e925dd9c has a status STOPPED"
+},
+{
+"dataset": "novelist-review-kirkus",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d87f9363a730e925dda0",
+"pubsets_count": 0,
+"completion_message": "Job was stopped by timeout due stages [id stage 6201d87f9363a730e925dda1 name normalize_mapping] "
+},
+{
+"dataset": "novelist-review-kirkus",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d87fe479c160dff5e482",
+"pubsets_count": 0,
+"completion_message": "Stopped due to the parent job with ID 6201d87f9363a730e925dda0 has a status STOPPED"
+},
+{
+"dataset": "novelist-review-lj",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d88c9363a730e925dda4",
+"pubsets_count": 0,
+"completion_message": "Job was stopped by timeout due stages [id stage 6201d88c9363a730e925dda5 name normalize_mapping] "
+},
+{
+"dataset": "novelist-review-lj",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d88ce479c160dff5e485",
+"pubsets_count": 0,
+"completion_message": "Stopped due to the parent job with ID 6201d88c9363a730e925dda4 has a status STOPPED"
+},
+{
+"dataset": "novelist-review-protoview-e2e-test",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d8b6e479c160dff5e488",
+"pubsets_count": 0,
+"completion_message": "Job was stopped by timeout due stages [id stage 6201d8b6e479c160dff5e489 name normalize_mapping] "
+},
+{
+"dataset": "novelist-review-protoview-e2e-test",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d8b6e479c160dff5e48b",
+"pubsets_count": 0,
+"completion_message": "Stopped due to the parent job with ID 6201d8b6e479c160dff5e488 has a status STOPPED"
+},
+{
+"dataset": "novelist-review-protoview",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d8bae479c160dff5e48e",
+"pubsets_count": 0,
+"completion_message": "Job was stopped by timeout due stages [id stage 6201d8bae479c160dff5e48f name normalize_mapping] "
+},
+{
+"dataset": "novelist-review-protoview",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d8bae479c160dff5e491",
+"pubsets_count": 0,
+"completion_message": "Stopped due to the parent job with ID 6201d8bae479c160dff5e48e has a status STOPPED"
+},
+{
+"dataset": "novelist-review-pwk",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d97be479c160dff5e494",
+"pubsets_count": 0,
+"completion_message": "Job was stopped by timeout due stages [id stage 6201d97be479c160dff5e495 name normalize_mapping] "
+},
+{
+"dataset": "novelist-review-pwk",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201d97b9363a730e925ddaa",
+"pubsets_count": 0,
+"completion_message": "Stopped due to the parent job with ID 6201d97be479c160dff5e494 has a status STOPPED"
+},
+{
+"dataset": "novelist-review-slj",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201da789363a730e925ddad",
+"pubsets_count": 0,
+"completion_message": "Job was stopped by timeout due stages [id stage 6201da789363a730e925ddae name normalize_mapping] "
+},
+{
+"dataset": "novelist-review-slj",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201da799363a730e925ddb0",
+"pubsets_count": 0,
+"completion_message": "Stopped due to the parent job with ID 6201da789363a730e925ddad has a status STOPPED"
+},
+{
+"dataset": "global-enrichment",
+"team": null,
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201ddbb9363a730e925ddb6",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "medline-articles-books-e2e-test",
+"team": "Green Bin",
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201ddbbe479c160dff5e499",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "medline-articles-books-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"medlinearticlesbooksrecords-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201ddbb9363a730e925ddbe",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201ddc09363a730e925ddc2",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "fsta",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"fstarecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201ddc0e479c160dff5e4a0",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "fsta",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"fstarecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201ddc09363a730e925ddc8",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201ddc09363a730e925ddc9",
+"pubsets_count": 0,
+"completion_message": "Manual complete"
+},
+{
+"dataset": "fsta",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"fstarecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201ddc09363a730e925ddcd",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"edssjs-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201ddc09363a730e925ddd0",
+"pubsets_count": 1,
+"completion_message": "Manual complete"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"springerjouraop-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201ddc09363a730e925ddd3",
+"pubsets_count": 1,
+"completion_message": "Manual complete"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201ddc09363a730e925ddd6",
+"pubsets_count": 0,
+"completion_message": "Manual complete"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"edssjs-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201ddc19363a730e925ddd9",
+"pubsets_count": 1,
+"completion_message": "Manual complete"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"springerjouraop-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201ddc19363a730e925dddc",
+"pubsets_count": 1,
+"completion_message": "Manual complete"
+},
+{
+"dataset": "medline-journals",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {
+"sequencefile_cmedm_ovh": 1,
+"sequencefile_cmedm_qwh": 1,
+"sequencefile_cmedm_qzh": 1,
+"medlinejournals": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201ddc19363a730e925dddf",
+"pubsets_count": 4,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-journals",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {
+"sequencefile_cmedm_ovh": 1,
+"sequencefile_cmedm_qwh": 1,
+"sequencefile_cmedm_qzh": 1,
+"medlinejournals": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201ddc19363a730e925dde2",
+"pubsets_count": 4,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-journals",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {
+"sequencefile_cmedm_ovh": 1,
+"sequencefile_cmedm_qwh": 1,
+"sequencefile_cmedm_qzh": 1,
+"medlinejournals": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201ddc19363a730e925dde4",
+"pubsets_count": 4,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "fsta",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"fstarecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201de6d9363a730e925dde7",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-journals",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {
+"sequencefile_cmedm_ovh": 1,
+"sequencefile_cmedm_qwh": 1,
+"sequencefile_cmedm_qzh": 1,
+"medlinejournals": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201de759363a730e925ddeb",
+"pubsets_count": 4,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-articles-books-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201deb1e479c160dff5e4a3",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-articles-books-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201deb1e479c160dff5e4a8",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-articles-books-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"medlinearticlesbooksrecords-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201deb1e479c160dff5e4ab",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-journals",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201deec9363a730e925ddf1",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-journals",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201deec9363a730e925ddf3",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-journals",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201deec9363a730e925ddf5",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-journals",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {
+"medlinejournals": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201deece479c160dff5e4ae",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-journals",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {
+"sequencefile_cmedm_ovh": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201deece479c160dff5e4b1",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-journals",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {
+"sequencefile_cmedm_qzh": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201deece479c160dff5e4b4",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-journals",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {
+"sequencefile_cmedm_qwh": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201deece479c160dff5e4b7",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "fsta",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201deec9363a730e925ddfa",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "fsta",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201deec9363a730e925ddfc",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "fsta",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201deed9363a730e925ddfe",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "fsta",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"fstarecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201deede479c160dff5e4ba",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201df54e479c160dff5e4be",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201df54e479c160dff5e4c1",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201df54e479c160dff5e4c3",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-subject",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201dfb79363a730e925de04",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201dfc8e479c160dff5e4c6",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201dfd09363a730e925de07",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201dfd1e479c160dff5e4ca",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"edssjs-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201dfd1e479c160dff5e4cd",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"springerjouraop-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201dfd1e479c160dff5e4d0",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201dfd1e479c160dff5e4d3",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"edssjs-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201dfd1e479c160dff5e4d6",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"springerjouraop-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201dfd1e479c160dff5e4d9",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "fsta",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"fstarecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201dfdee479c160dff5e4dc",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "fsta",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"fstarecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201dfde9363a730e925de0e",
+"pubsets_count": 1,
+"completion_message": "Manual complete"
+},
+{
+"dataset": "fsta",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"fstarecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201dfde9363a730e925de10",
+"pubsets_count": 1,
+"completion_message": "Manual complete"
+},
+{
+"dataset": "medline-articles-books-e2e-test",
+"team": "Green Bin",
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201dfe29363a730e925de14",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "medline-articles-books-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201dfe2e479c160dff5e4df",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-articles-books-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"medlinearticlesbooksrecords-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201dfe2e479c160dff5e4e2",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-articles-books-e2e-test",
+"team": "Green Bin",
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201dffb9363a730e925de1b",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "medline-articles-books-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201dffbe479c160dff5e4e5",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-articles-books-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"medlinearticlesbooksrecords-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201dffbe479c160dff5e4e8",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-journals",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {
+"sequencefile_cmedm_ovh": 1,
+"sequencefile_cmedm_qwh": 1,
+"sequencefile_cmedm_qzh": 1,
+"medlinejournals": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201dfffe479c160dff5e4eb",
+"pubsets_count": 4,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-journals",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {
+"sequencefile_cmedm_ovh": 1,
+"sequencefile_cmedm_qwh": 1,
+"sequencefile_cmedm_qzh": 1,
+"medlinejournals": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201dfff9363a730e925de20",
+"pubsets_count": 4,
+"completion_message": "Manual complete"
+},
+{
+"dataset": "medline-journals",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {
+"sequencefile_cmedm_ovh": 1,
+"sequencefile_cmedm_qwh": 1,
+"sequencefile_cmedm_qzh": 1,
+"medlinejournals": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201dfff9363a730e925de22",
+"pubsets_count": 4,
+"completion_message": "Manual complete"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e0149363a730e925de26",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e014e479c160dff5e4ee",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"edssjs-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e014e479c160dff5e4f1",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"springerjouraop-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e014e479c160dff5e4f4",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e014e479c160dff5e4f7",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"edssjs-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e014e479c160dff5e4fa",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals-e2e-test",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"springerjouraop-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e014e479c160dff5e4fd",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "medline-journals",
+"team": null,
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e0bde479c160dff5e500",
+"pubsets_count": 0,
+"completion_message": "Job was stopped"
+},
+{
+"dataset": "fsta",
+"team": "Green Bin",
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e0cbe479c160dff5e504",
+"pubsets_count": 0,
+"completion_message": "Job was stopped"
+},
+{
+"dataset": "fsta",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"fstarecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e0f8e479c160dff5e509",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "fsta",
+"team": "Green Bin",
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e1639363a730e925de2d",
+"pubsets_count": 0,
+"completion_message": "Job was stopped"
+},
+{
+"dataset": "fsta-e2e-test",
+"team": "Green Bin",
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e16b9363a730e925de32",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "fsta-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"fstarecords-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e16be479c160dff5e510",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "iosaop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"iosaoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e16e9363a730e925de39",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "degruyteraop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"degruyteraoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e16ee479c160dff5e513",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabarchives",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"cabarchives_ldhrecords": 1,
+"cabarchives_gharecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e16ee479c160dff5e518",
+"pubsets_count": 2,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "iosaop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"iosaoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e16e9363a730e925de3e",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "kargeraop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"kargeraoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e16ee479c160dff5e51d",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "degruyteraop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"degruyteraoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e16ee479c160dff5e51e",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "iosaop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"iosaoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e16e9363a730e925de41",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "degruyteraop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"degruyteraoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e16ee479c160dff5e525",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabarchives",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"cabarchives_ldhrecords": 1,
+"cabarchives_gharecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e16ee479c160dff5e528",
+"pubsets_count": 2,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "kargeraop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"kargeraoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e16e9363a730e925de44",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabarchives",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"cabarchives_ldhrecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e16ee479c160dff5e52b",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "kargeraop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"kargeraoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e16e9363a730e925de47",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabarchives",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"cabarchives_gharecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e16ee479c160dff5e52e",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "sageaop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"sageaoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e1709363a730e925de4a",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "sageaop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"sageaoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e1709363a730e925de4f",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "sageaop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"sageaoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e1709363a730e925de52",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "fsta-e2e-test",
+"team": "Green Bin",
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e1729363a730e925de55",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "fsta-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"fstarecords-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e172e479c160dff5e532",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"edssjs": 1,
+"springerjouraop": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e226e479c160dff5e535",
+"pubsets_count": 2,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"edssjs": 1,
+"springerjouraop": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e2269363a730e925de5f",
+"pubsets_count": 2,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"edssjs": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e2269363a730e925de62",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"springerjouraop": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e2269363a730e925de65",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"edssjs": 1,
+"springerjouraop": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e2269363a730e925de68",
+"pubsets_count": 2,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"edssjs": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e2269363a730e925de6b",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"springerjouraop": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e2269363a730e925de6e",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "taylorfrancisaop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"taylorfrancisaoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e228e479c160dff5e53b",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "taylorfrancisaop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"taylorfrancisaoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e2289363a730e925de71",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "taylorfrancisaop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"taylorfrancisaoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e2289363a730e925de74",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "wileyaop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"wileyaoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e230e479c160dff5e540",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "wileyaop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"wileyaoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e2319363a730e925de78",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "wileyaop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"wileyaoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e2319363a730e925de7b",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "worldscientificaop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"worldscientificaoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e242e479c160dff5e545",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "worldscientificaop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"worldscientificaoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e2429363a730e925de7f",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "worldscientificaop",
+"team": "Transporters",
+"status": "COMPLETED",
+"pubsets": {
+"worldscientificaoprecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e2429363a730e925de82",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "fsta-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e2a3e479c160dff5e54a",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "fsta-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e2f89363a730e925de86",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "fsta-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e2fb9363a730e925de8a",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "fsta-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e2fbe479c160dff5e54d",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "fsta-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e2fbe479c160dff5e54f",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"cabi_lhhrecords": 1,
+"cabi_lahrecords": 1,
+"cabi_lbhrecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e3119363a730e925de8d",
+"pubsets_count": 3,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"cabi_lhhrecords": 1,
+"cabi_lahrecords": 1,
+"cabi_lbhrecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e3119363a730e925de90",
+"pubsets_count": 3,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"cabi_lhhrecords": 1,
+"cabi_lahrecords": 1,
+"cabi_lbhrecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e3119363a730e925de92",
+"pubsets_count": 3,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "fsta-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e386e479c160dff5e553",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"cabi_lhhrecords": 1,
+"cabi_lahrecords": 1,
+"cabi_lbhrecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e392e479c160dff5e557",
+"pubsets_count": 3,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e456e479c160dff5e55f",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e457e479c160dff5e561",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e457e479c160dff5e563",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"cabi_lahrecords-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e457e479c160dff5e568",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"cabi_lbhrecords-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e457e479c160dff5e56b",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"cabi_lhhrecords-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e457e479c160dff5e56e",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e4c89363a730e925de96",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e4c89363a730e925de98",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e4c89363a730e925de9a",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"cabi_lahrecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e4c8e479c160dff5e571",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"cabi_lbhrecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e4c8e479c160dff5e574",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"cabi_lhhrecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e4c8e479c160dff5e577",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "fsta-e2e-test",
+"team": "Green Bin",
+"status": "SHIPMENT_FAILURE",
+"pubsets": {},
+"failed": true,
+"product_family": null,
+"_id": "6201e4ca9363a730e925de9f",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job shipment failed"
+},
+{
+"dataset": "fsta-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e4ca9363a730e925dea1",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "fsta-e2e-test",
+"team": "Green Bin",
+"status": "SHIPMENT_FAILURE",
+"pubsets": {},
+"failed": true,
+"product_family": null,
+"_id": "6201e4ca9363a730e925dea3",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job shipment failed"
+},
+{
+"dataset": "fsta-e2e-test",
+"team": "Green Bin",
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e4ca9363a730e925dea5",
+"pubsets_count": 0,
+"completion_message": "Job was stopped by timeout due stages [id stage 6201e4ca9363a730e925dea6 name title-unmatched] "
+},
+{
+"dataset": "fsta-e2e-test",
+"team": "Green Bin",
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e4ca9363a730e925dea7",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "fsta-e2e-test",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"fstarecords-test": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e4cae479c160dff5e57a",
+"pubsets_count": 1,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"cabi_lhhrecords": 1,
+"cabi_lahrecords": 1,
+"cabi_lbhrecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e54c9363a730e925deac",
+"pubsets_count": 3,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"cabi_lhhrecords": 1,
+"cabi_lahrecords": 1,
+"cabi_lbhrecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e54c9363a730e925deaf",
+"pubsets_count": 3,
+"completion_message": "Manual complete"
+},
+{
+"dataset": "cabi",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"cabi_lhhrecords": 1,
+"cabi_lahrecords": 1,
+"cabi_lbhrecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e54c9363a730e925deb1",
+"pubsets_count": 3,
+"completion_message": "Manual complete"
+},
+{
+"dataset": "cabi",
+"team": "Green Bin",
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e591e479c160dff5e57e",
+"pubsets_count": 0,
+"completion_message": "Job was stopped"
+},
+{
+"dataset": "cabi",
+"team": "Green Bin",
+"status": "COMPLETED",
+"pubsets": {
+"cabi_lhhrecords": 1,
+"cabi_lahrecords": 1,
+"cabi_lbhrecords": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "6201e5f19363a730e925deb5",
+"pubsets_count": 3,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "cabi",
+"team": "Green Bin",
+"status": "STOPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201e655e479c160dff5e582",
+"pubsets_count": 0,
+"completion_message": "Job was stopped"
+},
+{
+"dataset": "global-enrichment",
+"team": "sp2s",
+"status": "SHIPPED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201f99d9363a730e925deb8",
+"pubsets_count": 0,
+"completion_message": "SHIPPER: job was successfully shipped"
+},
+{
+"dataset": "global-enrichment",
+"team": "sp2s",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201fcf99363a730e925dec1",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "global-enrichment",
+"team": "sp2s",
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "6201fcfa9363a730e925deca",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kdh-demand-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62025e51e479c160dff5e587",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kdh-demand-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62025e519363a730e925ded4",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kdh-demand-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "620263759363a730e925ded9",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kdh-demand-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62026376e479c160dff5e58b",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kdh-demand-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62026e96e479c160dff5e590",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "novelist-kdh-demand-e2e-test",
+"team": null,
+"status": "COMPLETED",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62026e96e479c160dff5e593",
+"pubsets_count": 0,
+"completion_message": "SP: Job was successfully completed"
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "RUNNING",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62027fe29363a730e925dedd",
+"pubsets_count": 0,
+"completion_message": null
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "RUNNING",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62027fe29363a730e925dee3",
+"pubsets_count": 0,
+"completion_message": null
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "RUNNING",
+"pubsets": {
+"edssjs": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "62027fe29363a730e925dee6",
+"pubsets_count": 1,
+"completion_message": null
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "RUNNING",
+"pubsets": {
+"springerjouraop": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "62027fe29363a730e925dee9",
+"pubsets_count": 1,
+"completion_message": null
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "RUNNING",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62027fe29363a730e925deec",
+"pubsets_count": 0,
+"completion_message": null
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "RUNNING",
+"pubsets": {
+"edssjs": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "62027fe29363a730e925deef",
+"pubsets_count": 1,
+"completion_message": null
+},
+{
+"dataset": "springer-naturejournals",
+"team": "Green Bin,Transporters",
+"status": "RUNNING",
+"pubsets": {
+"springerjouraop": 1
+},
+"failed": false,
+"product_family": null,
+"_id": "62027fe29363a730e925def2",
+"pubsets_count": 1,
+"completion_message": null
+},
+{
+"dataset": "novelist-kdh-demand-e2e-test",
+"team": null,
+"status": "RUNNING",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "620280539363a730e925def6",
+"pubsets_count": 0,
+"completion_message": null
+},
+{
+"dataset": "novelist-kdh-demand-e2e-test",
+"team": null,
+"status": "RUNNING",
+"pubsets": {},
+"failed": false,
+"product_family": null,
+"_id": "62028053e479c160dff5e598",
+"pubsets_count": 0,
+"completion_message": null
+}
+]
+}
